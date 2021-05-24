@@ -1,5 +1,8 @@
 <?php
 
+// apenas um detalhe, esqueci que podia usar a tag <pre>, mas quando lembrei
+// disso já tinha arrumado todo o alfabeto.
+
 $alphabet = [];
 
 $alphabet["a"] = 
